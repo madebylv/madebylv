@@ -8,13 +8,13 @@ RPA Developer focused on automation and internal tools.
 
 ━━━━━━━━━━━━━━━
 
-**Tech Stack**
+### Tech Stack
 
 C# • Python • .NET • SQL • Git
 
 ━━━━━━━━━━━━━━━
 
-**Focus Areas**
+### Focus Areas
 
 Process Automation
 
@@ -26,7 +26,7 @@ Internal Tools
 
 ━━━━━━━━━━━━━━━
 
-**Currently Learning**
+### Currently Learning
 
 Software Architecture
 
